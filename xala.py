@@ -92,7 +92,7 @@ RH = """
 ╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝                      
 
 """
-CorrectUsername = "prifisor"
+CorrectUsername = "profisor"
 CorrectPassword = "blnd"
 
 loop = 'true'
